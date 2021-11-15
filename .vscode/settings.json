@@ -1,0 +1,7 @@
+{
+    "python.analysis.extraPaths": [
+        "./zombie_shooter-master/sprites/bullet",
+        "./zombie_shooter-master/sprites/zombie",
+        "./zombie_shooter-master/sprites/player"
+    ]
+}
